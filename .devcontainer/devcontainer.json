@@ -1,0 +1,6 @@
+{
+	"name": "dentest03-Alpine-plus",
+	"build": {
+        "dockerfile": "Dockerfile"
+    }
+}
