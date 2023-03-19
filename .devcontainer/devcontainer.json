@@ -1,5 +1,5 @@
 {
-	"name": "dentest03-Alpine-plus",
+	"name": "dentest03-nextjs",
 	"build": {
         "dockerfile": "Dockerfile"
     }
